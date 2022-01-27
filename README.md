@@ -22,10 +22,3 @@ yang meliputi Microsoft Word, Microsoft Excel, Microsoft Acces, serta pengeditan
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ----
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=agusnurwanto&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusnurwanto&layout=compact" />
-</div>
-
-----
-[![trophy](https://github-profile-trophy.vercel.app/?username=agusnurwanto)](https://github.com/ryo-ma/github-profile-trophy)
