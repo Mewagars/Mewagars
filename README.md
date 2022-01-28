@@ -3,7 +3,7 @@
 ----
 **Social Media & Blog:** 
 
-- <a target="_blank" href="https://www.linkedin.com/in/mewagarenggalingsiregar/"><img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /></a> https://www.linkedin.com/in/mewagrenggalingsiregar/
+- <a target="_blank" href="https://www.linkedin.com/in/mewagarenggalingsiregar/"><img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /></a> https://www.linkedin.com/in/mewagarenggalingsiregar/
 - <a target="_blank" href="https://www.facebook.com/megawagarenggaling/"><img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" /></a> https://www.facebook.com/megawagarenggaling/
 - <a target="_blank" href="https://mewagarenggalingsiregar.blogspot.com/"><img align="left" alt="Blogspot" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" /></a> https://mewagarenggalingsiregar.blogspot.com/
 - <a target="_blank" href="https://mewagarenggalingsiregar.blogspot.com/"><img align="left" alt="Upwork" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInstagram&psig=AOvVaw24e7gPeIRcLz8rurZ1VtZH&ust=1643380594658000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJC72viT0vUCFQAAAAAdAAAAABAJ" /></a> https://www.instagram.com/mewagars/
